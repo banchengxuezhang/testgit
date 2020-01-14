@@ -1,113 +1,91 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1HD
-http://vss.cbnmtv.com/live/yt_cctv1_h_1.m3u8?channelid=yt_cctv1_h
-#EXTINF:-1 ,CCTV2HD
-http://vss.cbnmtv.com/live/yt_cctv2_h_1.m3u8?channelid=yt_cctv2_h
-#EXTINF:-1 ,CCTV3HD
-http://vss.cbnmtv.com/live/yt_cctv3_h_1.m3u8?channelid=yt_cctv3_h
-#EXTINF:-1 ,CCTV4HD
-http://vss.cbnmtv.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?channelid=yt_cctv4zhongwenguoji_h
-#EXTINF:-1 ,CCTV5HD
-http://vss.cbnmtv.com/live/ty_cctv5_h_1.m3u8?channelid=ty_cctv5_h_1
-#EXTINF:-1 ,CCTV6HD
-http://vss.cbnmtv.com/live/yt_cctv6_h_1.m3u8?channelid=yt_cctv6_h
-#EXTINF:-1 ,CCTV7HD
-http://vss.cbnmtv.com/live/yt_cctv7_h_1.m3u8?channelid=yt_cctv7_h
-#EXTINF:-1 ,CCTV8HD
-http://vss.cbnmtv.com/live/ty_cctv8_h_1.m3u8?channelid=yt_cctv8_h
-#EXTINF:-1 ,CCTV9HD
-http://vss.cbnmtv.com/live/yt_cctv9_h_1.m3u8?channelid=yt_cctv9_h
-#EXTINF:-1 ,CCTV10HD
-http://vss.cbnmtv.com/live/yt_cctv10_h_1.m3u8?channelid=yt_cctv10_h
-#EXTINF:-1 ,CCTV12HD
-http://vss.cbnmtv.com/live/yt_cctv12_h_1.m3u8?channelid=yt_cctv12_h
-#EXTINF:-1 ,CCTV14HD
-http://vss.cbnmtv.com/live/yt_cctv14_h_1.m3u8?channelid=yt_cctv14_h
-#EXTINF:-1 ,湖南卫视高清
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 ,浙江卫视高清
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 ,江苏卫视高清
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 ,东方卫视高清
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 ,安徽卫视高清
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 ,黑龙江卫视高清
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 ,辽宁卫视高清
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 ,深圳卫视高清
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 ,广东卫视高清
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 ,天津卫视高清
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 ,湖北卫视高清
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 ,山东卫视高清
-http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 ,重庆卫视高清
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 ,河南卫视
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 ,陕西卫视
-http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1 ,吉林卫视
-http://ivi.bupt.edu.cn/hls/jltv.m3u8
-#EXTINF:-1 ,河北卫视
-http://ivi.bupt.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1 ,西藏卫视
-http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://ivi.bupt.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1 ,青海卫视
-http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 ,四川卫视
-http://ivi.bupt.edu.cn/hls/sctv.m3u8
-#EXTINF:-1 ,江苏卫视
-http://ivi.bupt.edu.cn/hls/jstv.m3u8
-#EXTINF:-1 ,天津卫视
-http://ivi.bupt.edu.cn/hls/tjtv.m3u8
-#EXTINF:-1 ,山西卫视
-http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1 ,厦门卫视
-http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 ,新疆卫视
-http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ivi.bupt.edu.cn/hls/hljtv.m3u8
-#EXTINF:-1 ,云南卫视
-http://ivi.bupt.edu.cn/hls/yntv.m3u8
-#EXTINF:-1 ,江西卫视
-http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1 ,福建东南卫视
-http://ivi.bupt.edu.cn/hls/dntv.m3u8
-#EXTINF:-1 ,浙江卫视
-http://ivi.bupt.edu.cn/hls/zjtv.m3u8
-#EXTINF:-1 ,贵州卫视
-http://ivi.bupt.edu.cn/hls/gztv.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://ivi.bupt.edu.cn/hls/gstv.m3u8 
-#EXTINF:-1 ,嘉佳卡通
-http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:-1 ,优漫卡通
-http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
-#EXTINF:-1 ,卡酷少儿
-http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:-1 ,金鹰卡通
-http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
-#EXTINF:-1 ,炫动卡通
-http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
-#EXTINF:-1 ,第一财经
-http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8 
-#EXTINF:-1 ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,吉林大学
-http://tv.jlu.edu.cn/stream/zhibo/sd/live.m3u8 
-#EXTINF:-1 ,凤凰资讯HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8 
-#EXTINF:-1 ,TVB财经资讯
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8  
-#EXTINF:-1 ,TVB明珠台
-http://m.567it.com/Pearl.m3u8
+#EXTINF:-1 ,CCTV-1FHD 
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-2FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-3FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-4FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-5FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-5+FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-6FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-7FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-8FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-9FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-10FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-12FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CCTV-14FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CETV-1FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV-5+FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,北京卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,东方卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,湖南卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,深圳卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240132_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,江苏卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,浙江卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,湖北卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240135_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,天津卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240136_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,广东卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240137_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,山东卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240254_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,辽宁卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240255_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,安徽卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,河北卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,贵州卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,黑龙江卫视FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,熊猫频道FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,金鹰纪实FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,爱上4K
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV-3+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV-5+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV-6+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV-8+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV野外
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV法治
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV热播剧场
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV经典电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV魅力时尚
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV少儿动画
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV谍战剧场
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV相声小品
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8
