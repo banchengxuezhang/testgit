@@ -25,10 +25,34 @@ http://1.180.237.9/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8
 #EXTINF:-1 ,CCTV-14FHD
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8
-#EXTINF:-1 ,CETV-1FHD
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8
-#EXTINF:-1 ,IPTV-5+FHD
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8
+#EXTINF:-1,湖北经视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
+#EXTINF:-1,湖北综合高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000146.m3u8
+#EXTINF:-1,湖北公共新闻高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000148.m3u8
+#EXTINF:-1,北京卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000149.m3u8
+#EXTINF:-1,东方卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000150.m3u8
+#EXTINF:-1,深圳卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000155.m3u8
+#EXTINF:-1,辽宁卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000159.m3u8
+#EXTINF:-1,WHTV1高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000215.m3u8
+#EXTINF:-1,贵州卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000165.m3u8
+#EXTINF:-1,安徽卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000167.m3u8
+#EXTINF:-1,江西卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000173.m3u8
+#EXTINF:-1,重庆卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000186.m3u8
+#EXTINF:-1,四川卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000187.m3u8
+#EXTINF:-1,黑龙江卫视高清
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000188.m3u8
 #EXTINF:-1 ,北京卫视FHD
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8
 #EXTINF:-1 ,东方卫视FHD
@@ -89,3 +113,7 @@ http://1.180.237.9/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8
 #EXTINF:-1 ,IPTV相声小品
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,CETV-1FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8
+#EXTINF:-1 ,IPTV-5+FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8
